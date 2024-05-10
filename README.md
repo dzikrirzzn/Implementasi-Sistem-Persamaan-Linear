@@ -9,4 +9,4 @@ Metode ini melibatkan dekomposisi matriks koefisien sistem persamaan linear menj
 3. Metode Dekomposisi Crout:
 Metode ini juga melibatkan dekomposisi matriks koefisien sistem persamaan linear menjadi dua matriks segitiga, yaitu matriks bawah (L) dan matriks atas (U), tetapi dengan pendekatan Crout. Solusi sistem persamaan linear kemudian ditemukan dengan mengalikan vektor hasil dengan matriks balikan dari matriks segitiga bawah dan matriks segitiga atas.
 
-source code yang diberikan merupakan implementasi dari metode metode diatas dengan menggunakan library numpy
+source code yang diberikan merupakan implementasi dari metode metode diatas dengan menggunakan bahasa pemrograman python dengan library numpy
