@@ -1,8 +1,8 @@
 # Implementasi-Sistem-Persamaan-Linear
-#Tugas Metode Numerik
-#Dzikri Razzan Athallah
-#21120122140163
-#Metode Numerik Kelas C
+# Tugas Metode Numerik
+# Dzikri Razzan Athallah
+# 21120122140163
+# Metode Numerik Kelas C
 
 1. Metode Matriks Balikan:
 Metode ini melibatkan menghitung matriks balikan dari matriks koefisien sistem persamaan linear dan kemudian mengalikannya dengan vektor hasil. Jika matriks balikan dapat dihitung, solusi sistem persamaan linear dapat ditemukan dengan mudah.
